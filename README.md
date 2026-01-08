@@ -19,7 +19,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. **Clone the repository**
    ```bash
-  
+  https://github.com/saloni90000000/Retail-customer-behavior-analysis/tree/main
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
@@ -49,5 +49,3 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Create interactive dashboard in Power BI
   
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
